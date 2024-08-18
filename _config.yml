@@ -10,7 +10,7 @@ github: [metadata]
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Serena Su"
+title                    : "Serena Su" #test for commit
 title_separator          : "-"
 name                     : &name "Serena Su"
 description              : &description "personal description"
