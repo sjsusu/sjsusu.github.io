@@ -14,7 +14,7 @@ title                    : "Serena Su"
 title_separator          : "-"
 name                     : &name "Serena Su"
 description              : &description "personal description"
-url                      : https://sjsusu.github.io/personal-website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sjsusu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjsusu/personal-website"
 
