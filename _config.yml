@@ -14,8 +14,8 @@ title                    : "Serena Su"
 title_separator          : "-"
 name                     : &name "Serena Su"
 description              : &description "personal description"
-url                      : https://sjsusu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://sjsusu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/personal-website" # the subpath of your site, e.g. "/blog"
 repository               : "sjsusu/personal-website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
