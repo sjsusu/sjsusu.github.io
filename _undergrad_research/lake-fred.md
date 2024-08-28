@@ -5,7 +5,7 @@ excerpt: "The objective of this research project is to calculate Lake Fred’s a
         We aim to provide a current and precise measurement of Lake 
         Fred's area, which can be compared with historical data to track any changes in the lake's 
         size.
-        <br><br>![lake fred](/images/lake-fred.jpg)"
+        <br><br><img src='/images/lake-fred.jpg'>"
 collection: undergrad_research
 ---
 ---
@@ -13,7 +13,7 @@ collection: undergrad_research
 
 **Advised by:** *<a href ="https://stockton.edu/sciences-math/mathematics.html" target = "_blank" rel ="noopener noreferrer">Dr. Chia-Lin Wu</a>*
 
-![lake fred](/images/lake-fred.jpg)
+<img src='/images/lake-fred.jpg'>
 
 ## Introduction
 
