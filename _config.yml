@@ -14,8 +14,8 @@ title                    : "Serena Su"
 title_separator          : "-"
 name                     : &name "Serena Su"
 description              : &description "personal description"
-url                      : https://sjsusu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/personal-website" # the subpath of your site, e.g. "/blog"
+url                      : https://sjsusu.github.io/personal-website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjsusu/personal-website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -223,6 +223,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  undergrad_research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -280,6 +283,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _undergrad_research
+  - scope:
+      path: ""
+      type: undergrad_research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
 
 
 # Sass/SCSS
