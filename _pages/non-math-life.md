@@ -15,6 +15,7 @@ My favorite genres of music to listen to are K-pop and K-r&b. Here are some of m
 * **K-pop:** Stray Kids, Ateez, Seventeen
 * **K-r&b:** NIve, homezone, Junny, wave to earth
 * **Indie:** Ricky Montgomery, Cavetown, Grent Perez
+* **J-pop** Fujii Kaze, Kenshi Yonezu, Omoinotake
   
 & many more :)
 
